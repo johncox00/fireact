@@ -1,3 +1,13 @@
+## TL;DR
+
+1. `npm install`
+2. `npm start`
+3. Browse to `localhost:3000`.
+4. Click "Create Data" to start sending random data to firebase.
+5. Click "Start Subscription" to listen to the node in firebase where you're adding data. (New items show up at the bottom.)
+6. Click "Stop!" to, well, stop.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
